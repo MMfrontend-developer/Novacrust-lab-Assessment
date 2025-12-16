@@ -13,7 +13,7 @@ interface PayOption {
 const options: PayOption[] = [
   { label: "Metamask", image: "/metamask.png" },
   { label: "Rainbow", image: "/rainbow.png" },
-  { label: "WalletConnect", image: "/WalletConnect.png" },
+  { label: "WalletConnect", image: "/walletconnect.png" },
   {
     label: "Other Crypto Wallets (Binance, Coinbase, Bybit etc)",
     icon: (
